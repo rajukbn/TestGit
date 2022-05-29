@@ -1,1 +1,2 @@
 Line1 from rebase1
+Line2 from master
