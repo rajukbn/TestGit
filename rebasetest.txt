@@ -1,4 +1,3 @@
 Line1 is added from master
 Line2 is from master
-
 Line1 is added from rebase1
